@@ -22,8 +22,8 @@ This analysis was developed as part of an academic project at the **University o
 ---
 
 ## 📁 Repository Structure
-├── lufthansa_market_analysis_presentation.pdf  # Project pitch presentation deck
-└── lufthansa_financial_analysis_model.xlsx      # Financial dataset, log returns, volatility models & dynamic charts
+    ├── lufthansa_market_analysis_presentation.pdf  # Project pitch presentation deck
+    └── lufthansa_financial_analysis_model.xlsx     # Financial dataset, log returns, volatility models & dynamic charts
 
 ---
 
