@@ -7,7 +7,7 @@ This analysis was developed as part of an academic project at the **University o
 
 ---
 
-## 📊 Key Highlights & Quantitative Analysis
+## Key Highlights & Quantitative Analysis
 * **Aviation Sector & Business Model Analysis:** Overview of Lufthansa Group's integrated business structure, including passenger transport, Lufthansa Technik, Miles & More, and strategic M&A acquisitions (e.g., ITA Airways, Air Europa).
 * **Price Evolution & Market Volatility:** Historical analysis of stock price dynamics vs. 20-day rolling volatility during major macroeconomic shocks (COVID-19 pandemic, Ukraine conflict, inflation/interest rate shifts).
 * **Daily Logarithmic Returns Distribution:**
@@ -21,7 +21,7 @@ This analysis was developed as part of an academic project at the **University o
 
 ---
 
-## 📁 Repository Structure
+## Repository Structure
     ├── lufthansa_market_analysis_presentation.pdf  # Project pitch presentation deck
     └── lufthansa_financial_analysis_model.xlsx     # Financial dataset, log returns, volatility models & dynamic charts
 
